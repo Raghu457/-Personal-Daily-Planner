@@ -2,11 +2,6 @@
 
 A responsive daily planner application built with vanilla HTML, CSS, and JavaScript. This project allows users to add, delete, and mark tasks as complete for the day. It demonstrates core concepts like DOM manipulation, event handling, and persistent storage. Tasks are saved directly in the browser using the `localStorage` API to ensure data is never lost on reload.
 
-![Personal Daily Planner Screenshot](https://i.imgur.com/8a5tJ4X.png) 
-*(You can replace the URL above with a link to your own screenshot)*
-
-**Live Demo:** `[Link to your live project deployed on GitHub Pages, Netlify, or Vercel]`
-
 ---
 
 ## ✨ Key Features
